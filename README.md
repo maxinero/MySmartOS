@@ -1,2 +1,2 @@
 # SmartOS
-my DevOps Task 3 Team Repo
+my HNGi6 DevOps Task 3 Team Repo
